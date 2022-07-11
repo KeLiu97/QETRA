@@ -1,0 +1,501 @@
+What IDE to use for developing in Ruby on Rails on Windows?
+How do I marshall a lambda (Proc) in Ruby?
+Rails or Grails?
+JavaScript with embedded ruby - How to make sure the string does not break?
+Convert File to String
+"Ruby Regex problem text.gsub[W-], '') fails"
+Markdown validation
+Can anyone recommend a Ruby source code analyzer (something like pylint)
+What is the best way to extend restful_authentication to support lazy logins by a long auth key?
+How do I get ruby to print a full stack dump instead of a truncated one?
+Require path problem
+Preferred Ruby plugin for Eclipse?
+Replacing two strings at the same time?
+How to do a safe join pathname in ruby?
+Ideal ruby project structure
+Getting Argument Names In Ruby Reflection
+Ubuntu noob rails install fails on zlib
+How can I access an object attribute named in a string in ruby
+Mechanize and JavaScript
+"Can Ruby, PHP, or Perl create a pre-compiled file for the code like Python?"
+Setting Ruby Load Path Externally
+Understand Rails Authenticity Token
+Understand Rails Authenticity Token
+Understanding the Rails Authenticity Token
+Dynamically connecting a model to databases in a running app?
+How do I use domain objects from a middleware with cache_classes off?
+Validation of XML file against XSD in Ruby
+"What does Ruby have that Python doesn't, and vice versa?"
+How to do static object in Rails?
+Is there a consensus about an ideal test framework for Ruby 1.9.x?
+Submitting POST data from the controller in rails to another website
+"Native threads in Ruby 1.9.1, whats in it for me?"
+How can I find out the current route in Rails?
+What are libraries that are ported with different programming language than its original?
+What's the difference between DateTime and Time in Ruby?
+How do I escape # from string interpolation?
+How do you find a min / max with Ruby?
+Ruby: how can I copy this global variable?
+Select parent node containing text inside children's node
+"Using gsub to replace semicolon characters with newline characters (Ruby, Rails console)"
+How to do a pattern search in nokogiri
+How do I do a pattern search in Nokogiri?
+Is there an existing way of passing initializing an object through a Hash?
+Is there a way to initializing an object through a Hash?
+How to jump from do to end in vim?
+Perl 6 grammars (or something similar) for Ruby?
+Does anyone know if Ruby has an addon similar to Perl 6 grammars?
+Why isn't the Ruby 1.9 lambda call possible without the dot in front of the parens?
+Assign multiple values to hash key in Ruby
+How to best create a random float in a range between to floats
+What's the purpose of tainting ruby objects?
+"Ruby - Error with ""Gets"""
+How to initialize an array across several lines
+How to embed a tag in content tag in RoR?
+Date_select Ruby
+Writing Beautiful Ruby: Checking for nil string before concatenating
+What's the correct way to serve a static HTML page?
+What is this &:last Ruby Construct Called?
+Logging Ruby code execution path
+How to protect password in my script?
+Ruby (or Python) Instead of Shell
+Why and when to use shell instead of Ruby
+Opening a URL with a comma using open-uri
+How to download a file from a http and save it into database
+Duplicating an array of strings
+Rails Sessions current practices (especially for Rails 3)
+Rails sessions current practices (especially for Rails 3)
+Understanding Ruby array sort
+Any way to determine which object called a method?
+Unicode filenames on windows in ruby
+How to determine if a character is a Chinese character
+What's the difference between these two Ruby class initialization definitions?
+Use of attr_attribute in Rails
+How do I Raw URL ENCODING/DECODING in JavaScript and Ruby to get the same answers in both?
+Ruby: method names ending with : (colon)?
+How to comment multiple lines in Ruby?
+How can I comment multiple lines in Ruby?
+Is ruby ||= intelligent?
+How do I get name of the month in Ruby on Rails?
+Ruby refactoring in Vim
+Functional unwrapping of nested array in ruby 1.9
+Is there something like Java Quartz in ruby?
+Ruby get current user windows (Web)
+Reading Spreadsheet
+How to know whether a model is new or not?
+Check if integer is within a range
+Every 10 minutes do some task in Ruby
+"What is the difference between ""="" & ""=>"" and whats the difference between ""@some_variable"", ""@@some_variable"" and "":some_variable"" in ruby?"
+"What's the difference between ""="" & ""=>"" and what's the difference between ""@some_variable"", ""@@some_variable"" and "":some_variable"" in ruby?"
+SCP with Ruby and a private key
+Is there a supplementary guide/answer key for ruby koans?
+RVM cannot use Ruby with sudo
+How to display current date in mm/dd/yyyy format in rails
+Delete multiple key and value pairs from hash in rails
+Python: open source projects with a (bit) of hand-holding
+Is there a Python equivalent to Ruby symbols?
+Why can't I do if zero in ruby?
+Is there a way to list the available variables in an ERB template?
+Rails - Best-Practice: How to create dependend has_one relations
+Is there a good Process Monitoring and Control framework in either ruby or perl?
+"Ruby on Rails migration, move table to MyISAM"
+How to get an HTTPS request with SSL client cert to work with Ruby EventMachine
+Why can't we access local variable inside rescue?
+Rails method - to_sym
+What does the Ruby on Rails' method 'to_sym' do?
+How to convert string to bytes in Ruby?
+Devise not displaying error message during a authentication failure!
+Device not displaying error messge during an authentication failure!
+Devise not displaying error message during an authentication failure!
+Device not displaying error messge during an authentication failure!
+How do I reverse a 'rails generate'?
+How do I reverse a 'rails generate'?
+How do I reverse a 'rails generate'?
+How can I install a specific Rails version on Windows?
+Create a series of high- and low-pitch beeps
+Rails 3.0.3 check if boolean vaule is true
+How to group numbers into different buckets in ruby
+Count occurrance of an element in an array
+Is there a way to glob a directory in ruby but exclude certain directories?
+Rails/Ruby: How to know if today's date is in date range
+Why does w Regular Expression in Ruby generate wrong matching results?
+Find the sum of all the multiples of 3 or 5 below 1000
+How to Run a Ruby/Python Script from inside PHP?
+How to I pass parameters to Ruby/Python scripts from inside PHP?
+OpenSSL Server Name Indication support in Ruby
+OpenSSL Server Name Indication support in Net::HTTP?
+Usage of exceptions in Ruby - best practices
+Where do rake tasks get defined?
+Anything similar in JavaScript to ruby's #value
+Simple Question: Converting a custom object into JSON using JSON gem
+method_added for class methods - understanding
+Differences between Proc and Lambda in Ruby
+Merge two ruby hashes with no new keys
+Why can you chain this: but not this: where?
+Nokogiri issue with Document has already a root node
+Using Nokogiri HTML Builder to create fragment with multiple root nodes
+Find index of minimum array element. How to refactor more elegant?
+How to find the index of the minimum array element?
+Ruby on Rails: How to reduce the quality of an uploading image using Paperclip?
+Ruby on Rail upload file problem odd utf-8 conversion error
+Rails Ruby Gems Vs Pure Development When developing a Rich Blog
+"Error installing ffi gem on Ubuntu, Ruby 1.9.2"
+How to remove gem from Ruby on Rails application
+Can ruby return nothing?
+In Nokogiri - What's the difference between.at_css to.css?
+Nokogiri add new node into xml problem
+Does %x[] catch all output?
+stylesheet_link_tag(:all) generates all.css when not asked
+Using RVM in eshell of emacs
+Difference between plugin and gem
+rvm bundle not found
+"Is ""modifying the prototype"" really that bad?"
+How to know IP address of a domain
+Ruby: Conditional in Hash
+What can RVM do for me?
+What should I do using RVM and what to do without it?
+Ruby: how do I check if a class is defined?
+"Phusion Passenger Error: You have activated rack 1.2.1, but your Gemfile requires rack 1.2.2"
+"Using nokogiri how do you search for ""text"" then traverse the DOM from the find?"
+Writing loop to file
+Ruby/Rails: How to identify the language of a given text?
+Ruby/Rails: How to detect the language of a given text?
+Ruby: Add two weeks to Time.now
+Rails error resource_name - devise help routing and rendering
+Rails error - devise help routing and rendering
+Resizing the default image with Paperclip
+Logging in Sinatra
+CarrierWave and :remote location validation
+Regex for Twitter-like names
+JRuby cannot switch to 1.6.2 for this Interpreter error rvm
+Delete multiple keys in redis-rb
+How to change default timezone for ActiveRecord in rails3
+How to change default timezone for ActiveRecord in Rails 3?
+Ruby: check if its instance of nil
+How to substring some field?
+How to set up Rails in order to have French language
+"How to start reading at offset in BinData, RUby?"
+"Math.Infinity in Ruby, how do I iterate over an infinite sequence?"
+How to make single digi number to double digi number in ruby?
+Why are Ruby method calls particularly slow?
+"after_create, after_save?"
+Difference between self.* or @* in Ruby/Rails Models/Controllers
+"Difference between *, self.* or @* in Ruby/Rails Models/Controllers"
+Testing ActionMailer multipart emails with RSpec
+Better String#hash based only on the string's content
+Deleting files in ruby
+Deleting file images using Ruby on Rails
+How to trigger mouse event in Capybara test
+Xcode problems using RVM
+Writing a file change listener in Ruby
+"Running ""bundle install"" fails and asks me to run ""bundle install"" -___-"
+rmv 1.9.2 and Rails 3.1 can't start server
+How to count records of a joined table with Rails 3 and Arel?
+File opening mode in Ruby
+Insert in file not overwrite it
+Is there an Expect equivalent gem for Ruby?
+What's a good way to validate links (urls) in Rails 3?
+What's a good way to validate links (urls) in Rails?
+Is it possible to use pointers in Ruby?
+Passenger concurent connections error
+Can't install RedCloth on Windows
+Where do flash messages store?
+What's the efficient way to multiply two arrays and get sum of multiplied values in Rails 3?
+Is it possible not to assign context to lambda?
+"How to specify ""http request header"" in open-uri"
+"FactoryGirl model association trouble: ""stack level too deep"""
+"FactoryGirl association model trouble: ""stack level too deep"""
+"Ruby: General style question, unless vs if not"
+Devise Sign Out Error
+How to run rspec tests?
+Class constructors in Ruby
+How to save a hash into a csv
+Ruby: How to concatenate multiple arrays into one
+How to Uninstall RubyMine (Mac OS X or other systems)
+Converting a hash into a recursive hash
+Change log level in Sinatra
+RubyOnRails 1.9.3p0 and mysql gem
+How to write my radio_button_tag?
+How to pass an object for radio_button_tag?
+Radio button tag not working?
+How to pass an object in a radio button tag?
+How to pass a model in a radio button tag?
+"How to ""require"" a file from the current working dir"
+"How can I ""require"" a file from the current working dir?"
+"In ruby, how can I ""require"" a file from the current working dir?"
+"Why does the hitting left arrow give me ""[[D"" in irb?"
+Rails app as an LDAP server?
+Rails assignment notations key: :value vs. :key => :value
+"Is there any difference between :key => ""value"" and key: ""value"" assignments?"
+"Is there any difference between :key => ""value"" and key: ""value"" notations?"
+Instance variable still references after 'dup'
+Stream output of child process in Ruby
+Ruby alias method chain undefined method
+Workaround for Stack Overflow in Ruby recursion?
+Iterate over an deeply nested level of hashes in Ruby
+Message/logging from Rack
+"Given a URL, how to return just the domain"
+Multiple level nesting in YAML
+Removing HTML tags from string
+Author archive pages in Jekyll
+"Converting String ""2"" into 2.5"
+Better way of formatting numbers?
+RUBY_VERSION from IRB
+How do I capture the output of a shell command in pry?
+How to get Cucumber/Aruba to work?
+"Ruby, case expression different in 1.9?"
+Fastest way to find a string into an array of string
+Requesting a secure http stream with basic auth with ruby - Yajl::HttpStream::HttpError Code 200 expected got 0
+Where and how is the _ (underscore) variable specified in Ruby?
+Ruby split by comma ignoring trailing space
+Rails: ERROR undefined method join' for nil:NilClass
+What is the difference between '..' and '...'?
+Can't receive JSON object with Rack ruby server
+Match a string against multiple patterns
+How can be only max 4 objects iterated and not all?
+Iterate over the first 4 elements of an array
+ORM with Sinatra App -- Ideal one with less issue and good performance
+Do I need a slash in front of rails route?
+"How do you fix the error ""undefined method error_messages'"" that occurs in your form_for block?"
+Ruby on Rails - How to delete an element from an array by value
+How to delete an element from an array by value
+How can I delete one element from an array by value?
+RVM refusing to install and giving me odd errors
+RVM refusing to install and giving non-existent log files?
+HTML formatting comments
+Producing single-line comments with Haml
+Ruby -- Mechanize -- Click Link
+Move one char left in console
+Writing tests with RSpec for Redis
+File upload Base64 encoded string in PaperClip using Rails 3
+What are the restrictions for function names in Ruby?
+Ruby: checking whether a collection is a subset of another collection
+Check if collection is subset of another collection
+Ruby: How can I convert a array data to hash and to json format?
+Make this HTTP POST request in ruby
+Check if two arrays have the same contents
+How to encrypt data using OpenSSL::Cipher in UTF-8?
+Error installing json gem in Ubuntu
+Typing unicode characters in Ruby console (irb)
+Will ruby on rails have gems with functionality like JSF(primefaces)
+How to achieve UI magic driven by JSF (Primefaces) In Ruby on Rails
+Why does Process.setsid require root privileges?
+XPath nokogiri returning empty array [] whereas I am expecting to have results
+Nokogiri to get raw HTML of a node
+Create array of n items based on integer value
+Ruby: to_s vs to_str
+to_s vs. to_str (and to_i/to_int/to_ary) in Ruby
+What is the best way to access Cucumber's instance variables from nested classes inside steps
+Changing heroku repo for pre-existing rails app
+"Rails: sql joins, filters and rails"
+Crash on action mailer SMTP
+Crash on action mailer SMTP google apps
+Why are my hashes printed as strings?
+"Ruby, which exception is best to handle unset environment variables?"
+Ruby: Official expansion of ||= conditional assignment operator
+Why does the ArgumentError exception not raise?
+Why does true..false and false..true sometimes not cause an argument error?
+How to validate assoicated model id?
+How can I post with an instance variable and HTTParty to an API that uses OAuth2?
+How does CSV.table know if no headers are in a CSV file?
+2 Namespaces of activeadmin
+How do I get ruby to make a noise (make my computer beep or play a sound/track) when my script breaks?
+Greedy matching multiple groups using regex
+Reading/grep a file in ruby more than once
+Rails console (and irb) can't use text helpers
+Best way to install Ruby 1.8.7 on OS X 1.8 Mountain Lion
+Best way to install Ruby 1.8.7 on OS X 10.8 Mountain Lion
+Ruby stack level too deep exception NOT from recursive infinite loop
+Ruby stack level too deep exception NOT from recursive infinite loop
+How to select a random number a random number of times but never the same random number twice
+Ruby's begin... end without rescue used as a code block
+Ruby On Rails newbie Q. Passing parameters from view to controller
+How to send chain of multiple net-ssh sudo su in Ruby
+How to know in what environment the code runs?
+Upload CSV file in Rails and process records to display on page without saving file
+What is the difference between = and.match() in pattern matching?
+What is the difference between = and match() when pattern matching?
+Remove whitespaces in ruby csv.parse
+Is there an accepted way of parsing these numbers in Rails?
+Can't start elasticsearch server - rails tire
+Net::SSH timeout for execution
+What does class  self actually mean?
+What does class  self mean?
+Ruby 1.9.x hash syntax: if: true is not equal to :if => true
+Ruby OpenSSL Issues on Mac
+Ruby gem install not working - GEM_HOME
+Ruby gem install not working - GEM_PATH
+Couldn't understand the Module#prepend_features and Module#append_features in Ruby
+How do I convert a Month Name into a Month Integer in Ruby?
+Multiline ruby in Haml
+How to connect to MySQL Ruby on Rails?
+Ruby: split body of text into sentences but keep punctuation?
+Ruby Sinatra - build routes on top of a common base route?
+How to reset counters in sidekiq?
+Possible to make Ruby web apps without a framework?
+Is it possible to make Ruby web apps without a framework?
+ruby on rails how to render a page with layout and other head field
+How to check that a file is empty?
+Can't get Rspec to work
+Can't get Rspec to work --'require': cannot load such file --
+Ruby: Conditional Assignment ( ||= ) inside a loop
+Scope of a block variable
+Rails implementation of a database file system
+When to use symbols?
+When to use symbols versus strings in Ruby?
+All of my assets return 404 after a push to heroku
+Why does alias_method fail here?
+Can not find compiler and'make' tool - make sure Xcode and/or Command Line Tools are installed
+How to fill join table with seed?
+Fragment caching in Rails 4 with personalised data
+Nested if loops in rails
+Ruby: nested if loops
+Nested if statements in rails
+Does Sublime Text support for Ruby API (auto-complete)?
+Capistrano deploy:migrate runs all migrations every time
+How to pass parameters through the associations chain in FactoryGirl
+"Ruby File.exist? says no, but truth is yes"
+Moving directory fails with mv: inter-device move failed
+"Rails: I'm in my app folder, and ""rails s"" is not working"
+Selenium webdriver documentation in Ruby
+Regular expressions with validating in RoR 4
+What is the best way to toggle?
+What is the best way to toggle a boolean variable?
+Regex: How to count characters that include non-matching characters
+Regex: How to count non-matching characters
+Rails - Failed to build gem native extension on Ubuntu 12.04
+Removing backslahes in JSON string
+Removing backslashes in JSON string
+How do I remove backslashes from a JSON string?
+Rails 4 add file_field for attachment upload to existing form and controller
+"What does a method definition begin with hooks, can't understand its usefulness?"
+Rails strong parameters with objects array
+Rails strong parameters with objects array
+Rails 3: fields_for showing blank filed on Edit view
+Adding key value pair to beginning of hash ruby
+Is it possible to include local functions in the current scope without hacking Object
+Is it possible in Ruby to write a gem which will create a function that can be called from the global scope without hacking Object
+Is it possible in Ruby to add a method to the global scope from within a gem without hacking Object
+Rails: Why does my rails rollback when I try to user.save?
+How do I perform this translation efficiently?
+Why does Exp#math return only one match?
+Sort a ruby array of hashes
+Rails %w(...) vs %w[...]
+"Rails: ""if name is"" alternatives"
+How to clean up messy views in Rails?
+Downgrading or installing older version of Cocoapods
+How to downgrade or install an older version of Cocoapods
+How to write to file in Ruby
+Active admin CSV export custom query
+How to check if a variable really responds_to :dup
+Dump Pry Output to File/Vim
+What is the difference between Integer and Fixnum?
+What is the difference between Integer and Fixnum?
+How do I convert a Time integer to a Date in Ruby?
+Ruby: Get a array of the values of a key from an array of hashes
+Ruby on Rails 3 / 4 - What authentication gem do you use?
+Sending raw XML using Savon
+Posting videos to Facebook as a command-line (desktop) application
+File accessing in Ruby
+Rails gem for complex password rules?
+Ruby Unary Operator Behavior
+Calculate set partitions with specific group sizes
+Ruby error? Time object to_date() method returns wrong date
+Time object to_date() method returns wrong date
+Ruby Time object to_date() method returns wrong date
+Testing enums
+Nested forms fail when using an ActiveResource model
+How to get Rails function to return its own name?
+How to install Ruby 2 on Ubuntu box with Ansible
+What is the difference between rails s and bundle exec rails s?
+Uninstall specific version of a library using gem
+"Ruby method(*args) syntax gives ""ArgumentError: wrong number of arguments"" for nil value"
+"Ruby strftime(""%Q"") broken"
+Does group_by preserve the order?
+RSpec: uinitialized constant ActiveRecord (NameError)
+Populating array with random numbers
+Guard doesn't run test for changed file
+"What are the purposes of the specifications files, executables, test_files, and require_paths in a Ruby gem's"
+Error: spawn ENOENT: missing the sass executable
+How to run all unit tests that I have in a folder with a single command?
+Ruby syntax? @song ||= ::TwelveDaysSong.new
+Sort array using custom sorting preferences?
+Parse command line key value pairs in a Ruby script
+Parse command line arguments in a Ruby script
+Truly optional named arguments in Ruby 2.0
+Difference between inline if conditional and block if conditional
+Active admin with friendly id
+What is comma followed by an equal sign in Ruby?
+Creating an infinite loop
+Creating an infinite loop
+Is Ruby's $! only visible in rescue block?
+Not able to use mysql2 gem with Rails 4.1.5
+Ruby: Rails set up cloned project (bundle problems)
+Bundle install: ERROR: Failed to build gem native extension
+Equivalent of array join() for Set in Ruby?
+Rails Sass: variables arenot passed with @import
+Trying to set up Amazon's S3 bucket
+Trying to set up Amazon's S3 bucket: Excon::Errors::SocketError (getaddrinfo)
+Trying to set up Amazon's S3 bucket: 403 Forbidden error
+Creating a Hashmap with values as arrays and default value as empty array
+Convert a hex string to a hex int in ruby
+Ruby parallel assignment with parantheses and splat operator
+"Can ruby hashes be included in Sass and CoffeeScript, allowing data to be shared?"
+How do I render multiple lines of HTML in a helper?
+AWS Elastic Beanstalk - Cannot Clone With Latest Platform or eb upgrade from Ruby 2.1 to Ruby 2.2
+Capybara increase page load wait time
+Rotating letters in a string so that each letter is shifted to another letter by n places
+Difference between Rubys Hash and ActiveSupports HashWithIndifferentAccess
+Can't install gems on osx El Capitan
+"Can't install gems on MacOS X ""El Capitan"""
+Why does ruby rails need puma or unicorn?
+Ruby: What do I do with these errors?
+Ruby and Rails Date.today format
+"Rbenv & bundler: ""bad interpreter: No such file or directory"""
+Apipie Param Invalid value Must be a Float
+"In ruby, How can I get the count of overlapping ranges in sorted order"
+Set non-database attribute for rails model without attr_accessor
+Set non-database attribute for rails model without attr_accessor
+:autosave doesn't seem to work as expected
+"Ruby, add class method"
+Error while installing nokogiri (1.6.7) on El Capitan
+Auto-Correct Line length in a library
+How to sort ruby array by associated model count?
+Ruby what are rules for selecting which method to execute out of more with same name?
+What are rules for selecting the method to execute out of more with same name?
+Selecting a method out of methods with the same name
+Calling a singleton method within an instance method in a class that extends itself
+Inserting an entry in Ruby hash at any key
+Why is Crystal Lang faster than Ruby?
+What does &&= mean in Ruby?
+&&= grammar in Ruby
+"Grammar in Ruby -- ""&&="""
+Rubocop: ignore a specific directory or file
+How to tell Rubocop to ignore a specific directory or file?
+What does do do in Ruby?
+Does ruby stop evaluating if sentences when first condition is false?
+How to convert img src= > to image_tag in rails app
+Rails Arels: Unsupported argument type: String. Construct an Arel node instead
+Array assign vs. append behavior in class method
+Boolean logic for ENV variables
+Error when running Rails application
+Error when running Rails application
+Rails 5.1 System tests with RSpec
+Cann't install Ruby rvm on Ubuntu 16.04 due to gpg bug
+Why is Rails 5.1.1 session store removed?
+When does try work and not &.
+What is the difference between try and &. in Ruby?
+"Unexpected behaviour in ruby for ""puts.class"""
+Remove rubcop comments from Yardoc documentation
+Ransack exact match of array values
+Why is my rails server not running? cannot load such file sqlite3/sqlite3_native (LoadError)
+Cannot load such file sqlite3/sqlite3_native (LoadError)
+Rspec - ArgumentError: SMTP To address may not be blank: []
+Regex - Usernames that cannot start or end with characters
+Argument Error Nil location provided. Can't build URI for an image_tag using carrier wave Ruby on Rails
+How can I reset anything related to Ruby to factory settings Mac OS High Sierra?
+How can I reset anything related to Ruby to factory settings on Mac OS High Sierra?
+How to pass argument to a square method?
+Error installing ruby version 2.1.2 using rvm
+Proper way to Display Ruby number
+Proper way to compare decimal values in RSpec
