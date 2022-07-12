@@ -39,7 +39,7 @@ This table show the performance of QETRA and baselines in terms of all the evalu
 
 To make our proposed approach more practical, we developed a browser plugin based on QETRA and integrated it into the Chrome browser. 
 The screenshot of our developed tool is shown in the figure above. The usage process can be illustrated as follows.
-When using this plug-in, the developer can first copy the original title in \ding{172}, then the developer can copy the code snippet and the problem description of the question body in \ding{173} and \ding{174} respectively. Then the developer can click the generate button in \ding{174}. Finally, the generated reformulated title can be shown in \ding{175}.
+When using this plug-in, the developer can first copy the original title in 1, then the developer can copy the code snippet and the problem description of the question body in 2 and 3 respectively. Then the developer can click the generate button in 4. Finally, the generated reformulated title can be shown in 5.
 
 
 
