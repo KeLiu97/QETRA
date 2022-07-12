@@ -24,7 +24,9 @@ The details of statistical information for different programming languages can b
 
 ## Question title content analysis
 
-
+![image](figs/java_gram.png)
+![image](figs/python_gram.png)
 ![image](figs/C_gram.png)
 ![image](figs/js_gram.png)
-
+![image](figs/php_gram.png)
+![image](figs/html_gram.png)
