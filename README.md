@@ -1,7 +1,10 @@
-# QETRA
-
 # “Automated Question Title Reformulation by Mining Modification Logs From Stack Overflow” 
-## DataSet
+## Introduction
+
+![image](figs.png)
+
+Our pretrained model [QETRA](https://archive.org/download/stackexchange) has released on huggingface. 
+
 
 ## DataSet
 
