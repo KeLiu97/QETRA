@@ -24,7 +24,9 @@ The details of statistical information for different programming languages can b
 
 ## Question title content analysis
 
-### The top-10 most frequent $n$-grams in the Java post title 
+### The top-10 most frequent $n$-grams in the C# post title 
+
+![image](figs/C#_gram.png)
 
 
 |Rank   |1-gram    |2-gram            |3-gram                         |4-gram                       |
