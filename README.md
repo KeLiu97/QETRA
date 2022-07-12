@@ -1,7 +1,7 @@
 # “Automated Question Title Reformulation by Mining Modification Logs From Stack Overflow” 
 ## Introduction
 
-![QETRA](https://github.com/KeLiu97/QETRA/tree/master/figs/frameWork.png)
+![Framework of our proposed approach](figs/frameWork.png)
 
 Our pretrained model [QETRA](https://archive.org/download/stackexchange) has released on huggingface. 
 
@@ -12,13 +12,15 @@ We gathered modification logs from two large-scale data dumps from [Stack Overfl
 In our dataset,  we identified 122,528 title reformulation threads. From these threads, we extracted a total of 152,259 title reformulation pairs.
 We split the dataset into the training set, the validation set, and the testing set in a ratio of 80\%, 10\%, and 10\%.
 The details of statistical information for different programming languages can be found in Table.
-![image](figs.png)
+![image](figs/Data.png)
 
+## DataSet
 
+![image](figs/RQ1.png)
 
 ## Chrome plugin
 
-
+![image](figs/tool.png)
 
 ## Question title content analysis
 
