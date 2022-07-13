@@ -37,11 +37,16 @@ This table show the performance of QETRA and baselines in terms of all the evalu
 
 ![image](figs/plug.png)
 
-To make our proposed approach more practical, we developed a browser plugin based on {\tool} and integrated it into the Chrome browser. 
-The screenshot of our developed tool is shown in Fig.~\ref{fig:tool}. 
+To make our proposed approach more practical, we developed a browser plugin based on QETRA and integrated it into the Chrome browser. 
+The screenshot of our developed tool is shown in figure above. 
 When a user is editing a question post, the browser plugin will automatically analyze the original title and body of the question post, and recommend the top-5 reformulation titles to the users for selection. 
 
 
+Instructions for use:
+
+1.Download and install the plugin from the ReTitlePlugin folder
+2.Edit your question post.
+3.Press Ctrl + Q to get reformulated titles
 
 
 
