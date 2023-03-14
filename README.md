@@ -40,7 +40,7 @@ This table show the performance of QETRA and baselines in terms of all the evalu
 ![image](figs/Code2Que_P.png)
 ![image](figs/BART_P.png)
 ![image](figs/CodeBERT_P.png)
-![image](figs/LanguageTool_P.png)
+![image][align=c](figs/LanguageTool_P.png)
 
 ## Chrome plugin
 
