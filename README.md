@@ -33,6 +33,15 @@ The details of statistical information for different programming languages can b
 This table show the performance of QETRA and baselines in terms of all the evaluation metrics for different programming languages. 
 ![image](figs/RQ1.png)
 
+## Results of the Wilcoxon signed-rank test
+
+![image](figs/NMT_P.png)
+![image](figs/Transformer_P.png)
+![image](figs/Code2Que_P.png)
+![image](figs/BART_P.png)
+![image](figs/CodeBERT_P.png)
+![image](figs/LanguageTool_P.png)
+
 ## Chrome plugin
 
 ![image](figs/plug.png)
@@ -40,6 +49,7 @@ This table show the performance of QETRA and baselines in terms of all the evalu
 To make our proposed approach more practical, we developed a browser plugin based on QETRA and integrated it into the Chrome browser. 
 The screenshot of our developed tool is shown in figure above. 
 When a user is editing a question post, the browser plugin will automatically analyze the original title and body of the question post, and recommend the top-5 reformulation titles to the users for selection. 
+
 
 
 Instructions for use:
