@@ -33,7 +33,7 @@ The details of statistical information for different programming languages can b
 This table show the performance of QETRA and baselines in terms of all the evaluation metrics for different programming languages. 
 ![image](figs/RQ1.png)
 
-## Results of the Wilcoxon signed-rank test
+## The Wilcoxon signed-rank test for each pair of QETRA and the baseline discussed in Section 6.1
 
 ![image](figs/NMT_P.png)
 ![image](figs/Transformer_P.png)
